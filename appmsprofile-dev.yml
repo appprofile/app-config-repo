@@ -1,0 +1,2 @@
+databaseserver: mongodb://innova4j:innova4j@ds163870.mlab.com:63870/appprofile
+databasename: appprofile
